@@ -8,12 +8,11 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Weijia`,
-    siteTitleAlt: `Blog of Weijia Sun`,
-    siteHeadline: `This is the Blog of Weijia Sun`,
-    siteDescription: `An astrophysicist interested in stellar evolution and star clusters`,
-    author: `@weijiasunastro`
     siteTitleAlt: `Blog`,
+    siteTitle: `Weijia`,
+    author: `@weijiasunastro`,
+    siteHeadline: `This is the blog of Weijia Sun`,
+    siteDescription: `An astrophysicist interested in stellar evolution and star clusters`,
   },
   plugins: [
     {
