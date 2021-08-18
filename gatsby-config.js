@@ -20,15 +20,11 @@ module.exports = {
             title: `Blog`,
             slug: `/blog`,
           },
-          {
-            title: `About`,
-            slug: `/about`,
-          },
         ],
         externalLinks: [
           {
             name: `Homepage`,
-            url: `https://https://thisisweijia.github.io/`,
+            url: `https://thisisweijia.github.io/`,
           },
         ],
       },
